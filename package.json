@@ -1,0 +1,20 @@
+{
+  "name": "pdfnode",
+  "version": "1.0.0",
+  "description": "Demo example using node-mailer, handlebars and http-pdf in order to send an email with a PDF file attached",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jose Alberto Vázquez López (@JoseAlbertoVazq on GitHub)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.5.1",
+    "html-pdf": "^2.2.0",
+    "nodemailer": "^6.3.1",
+    "phantomjs-prebuilt": "^2.1.16"
+  }
+}
