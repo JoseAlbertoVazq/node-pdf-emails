@@ -1,6 +1,6 @@
 # NodeJS emails with PDF attachments
 
-Demo example using node-mailer, handlebars and http-pdf in order to send an email with a PDF file attached
+Demo example using ExpressJS, Node-Mailer, Handlebars and http-pdf in order to send an email with a PDF file attached
 
 ## How does it works?
 
